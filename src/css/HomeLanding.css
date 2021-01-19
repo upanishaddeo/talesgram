@@ -15,7 +15,7 @@
 .col-main-font {
     font-size: 80px;
     letter-spacing: 30px;
-    background: -webkit-linear-gradient(#8a8a8a, rgb(206, 118, 118));
+    background: -webkit-linear-gradient(#bbb7b7, rgb(187, 109, 109));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
     /* color: #c26753; */
